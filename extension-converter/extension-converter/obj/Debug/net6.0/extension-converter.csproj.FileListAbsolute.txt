@@ -1,0 +1,14 @@
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\bin\Debug\net6.0\extension-converter.exe
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\bin\Debug\net6.0\extension-converter.deps.json
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\bin\Debug\net6.0\extension-converter.runtimeconfig.json
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\bin\Debug\net6.0\extension-converter.dll
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\bin\Debug\net6.0\extension-converter.pdb
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.AssemblyInfoInputs.cache
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.AssemblyInfo.cs
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.csproj.CoreCompileInputs.cache
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.dll
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\refint\extension-converter.dll
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.pdb
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\extension-converter.genruntimeconfig.cache
+C:\Users\Julia Fideles\OneDrive\Documentos\Documentos\Git\portfolio\extension-converter\extension-converter\extension-converter\obj\Debug\net6.0\ref\extension-converter.dll
